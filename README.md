@@ -9,3 +9,5 @@ I want a language that is simple, cross-platform and quite powerful,
 has a convenient package manager
 +
 python can be turned into a binary by first turning it into С
+
+I know a little c++/c and will soon write in it...
